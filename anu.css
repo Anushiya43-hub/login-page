@@ -1,0 +1,19 @@
+.pp{text-align: center;}
+
+.abi{width:600px;background-color: rgba(241, 238, 238, 0.5);
+text-align: center; margin:250px auto; font-family: Arial, Helvetica, sans-serif; 
+padding: 20px;
+}
+.achu{background-image: url(/media/Makeup-Brush-Wallpaper-21079.jpg);}
+.ch input:focus{background-color: beige;}
+#gr{padding:1px;}
+.p1{padding:1px;}
+.ch input{width:400px; margin: 10px; padding: 30px; border-radius: 20px; border-color: deeppink; box-shadow: 2px; font-size:22px;}
+.but button{width:400px; margin:10px; padding:20px; border-radius: 20px;font-size:22px;font-weight: 600;}
+.but button{background-color:rgb(129, 46, 102);}
+.ok button{width:400px; margin:10px; padding:25px; border-radius: 20px;font-size: 22px; font-weight: 600; }
+
+.p3{margin:20px; font-size:18px ;}
+#gr{font-size:40px; }
+.p1{font-size: 20px;}
+
